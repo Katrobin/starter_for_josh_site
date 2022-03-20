@@ -64,8 +64,6 @@
         </div> 
       </nav>
         
-      
-      
           <div class="container"> <!-- div that holds the conent in the middle of the page -->
             <div class="tag">
             <h1> Games Design For the Future </h1>
