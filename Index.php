@@ -45,9 +45,5 @@
          </div>
         </div>
         </div>
-    
-    
     </section>
-        
-
     <?php get_footer(); ?> <!-- make sure there aren't any empty spaces after this otherwise you'll break Wordpress -->
