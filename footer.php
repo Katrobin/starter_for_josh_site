@@ -1,5 +1,3 @@
-
-
 <footer class="container-fluid text-center">
   <div class="container">
     <div class="row">
