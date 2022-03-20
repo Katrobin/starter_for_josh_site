@@ -1,4 +1,4 @@
-<?php get_heder();?>
+<?php get_heder(); ?>
       <section class="container-fluid aboutbg text-center">
           <div class="container">
               <h2>GAMES &amp; LEVEL DESIGNER</h2>
@@ -50,4 +50,4 @@
     </section>
         
 
-    <?php get_footer();?> <!-- make sure there aren't any empty spaces after this otherwise you'll break Wordpress -->
+    <?php get_footer(); ?> <!-- make sure there aren't any empty spaces after this otherwise you'll break Wordpress -->
