@@ -36,7 +36,8 @@
 </head>
 <body>
 <header class="container-fluid" style="background-size: cover; background-image: url(<?php the_field('headerbackgroundimage') ?>);"> <!-- div for the main image that stretches to edge of page -->
-    <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+    <!-- <nav class="navbar navbar-expand-md bg-dark navbar-dark"> -->
+    <nav class="navbar navbar-expand-md navbar-dark">
         <!-- Brand -->
         <a class="navbar-brand" href=" http://206.189.45.97/~mesh1/"><span class="josh">JOSH</span><span class="orange">WHITKIN</span></a>
       
